@@ -5,23 +5,23 @@
 }
 
 .coffee-img {
-  background-image: url(../../image/coffee-background.jpg);
+  background-image: url(q8/image/coffee-background.jpg);
 }
 
 .coffee-img-repeat {
-  background-image: url(../../image/coffee-background.jpg);
+  background-image: url(q8/image/coffee-background.jpg);
   background-repeat: no-repeat;
 }
 
 .coffee-img-center {
-  background-image: url(../../image/coffee-background.jpg);
+  background-image: url(q8/image/coffee-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .coffee-img-center2 {
-  background-image: url(../../image/coffee-background.jpg);
+  background-image: url(q8/image/coffee-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
