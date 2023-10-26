@@ -5,17 +5,17 @@
 }
 
 .coffee-img {
-  background: url(/Users/wakana/Desktop/練習用/LayoutParts-Part2/q8/q8/image/coffee-background.jpg);
+  background: url(../image/coffee-background.jpg);
 }
 
 .coffee-img-repeat {
-  background: url(/Users/wakana/Desktop/練習用/LayoutParts-Part2/q8/q8/image/coffee-background.jpg) no-repeat;
+  background: url(../image/coffee-background.jpg) no-repeat;
 }
 
 .coffee-img-center {
-  background: url(/Users/wakana/Desktop/q8/q8/image/coffee-background.jpg) no-repeat center/cover;
+  background: url(../image/coffee-background.jpg) no-repeat center/cover;
 }
 
 .coffee-img-center2 {
-  background: url(/Users/wakana/Desktop/q8/q8/image/coffee-background.jpg) no-repeat center/contain;
+  background: url(../image/coffee-background.jpg) no-repeat center/contain;
 }
